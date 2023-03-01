@@ -4,7 +4,7 @@
 [![loriv.al](https://img.shields.io/badge/loriv.al-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://loriv.al/)](https://loriv.al/)
 ![](https://visitor-badge.glitch.me/badge?page_id=lorival)
 
-### $ whoami
+### $ whoami_
 
 - :anchor: I’m currently working on Kuehne + Nagel as a Senior Software Engineer
 - :house: I'm from Brazil, but I live in Porto, Portugal
