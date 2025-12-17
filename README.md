@@ -6,9 +6,10 @@
 
 ### $ whoami_
 
-- :anchor: I’m currently working on Kuehne + Nagel as a Senior Software Engineer
-- :house: I'm from Brazil, but I live in Porto, Portugal
-- :hourglass_flowing_sand: I have been working with software development since 2005
-- :smile: I am a person with a happy mood
-- :video_game: I like to play video games in my spare time, one of my favorites is The Last of Us
-- :guitar: I like to play electric guitar, but I'm a super amateur, and my favorite genre is blues
+- 🇧🇷 Brazilian living in Portugal for 6+ years, enjoying alheira and Port wine 🍷
+- :smile: Always in a good mood, powered by my cats 😸
+- ☕ Turning coffee into bugs for 20+ years 🐞
+- :video_game: Gamer in my spare time, fan of The Last of Us, Resident Evil, Far Cry and Star Wars 🧟
+- 🖥️ Senior Software Architect at Kuehne + Nagel for 4+ years :anchor:
+- :guitar: Amateur electric guitar player into blues 🎵
+- 💻 Driven by code, guided by DevOps 🐳
