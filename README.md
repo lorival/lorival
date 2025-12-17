@@ -12,3 +12,4 @@
 - 🖥️ Senior Software Architect at Kuehne + Nagel for 4+ years :anchor:
 - :guitar: Amateur electric guitar player into blues 🎵
 - 💻 Driven by code, guided by DevOps 🐳
+- 📚 Always learning and exploring new things through books and travel ✈️
