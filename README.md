@@ -1,8 +1,7 @@
 ## Hey sudo? 👋
 
-[![Linkedin: lorival](https://img.shields.io/badge/-lorival-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorival/?locale=en_US)](https://www.linkedin.com/in/lorival/?locale=en_US)
 [![loriv.al](https://img.shields.io/badge/loriv.al-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://loriv.al/)](https://loriv.al/)
-![](https://visitor-badge.glitch.me/badge?page_id=lorival)
+[![Linkedin: lorival](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorival/?locale=en_US)](https://www.linkedin.com/in/lorival/?locale=en_US)
 
 ### $ whoami_
 
