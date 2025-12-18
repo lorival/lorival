@@ -5,10 +5,11 @@
 
 ### $ whoami_
 
-- 💻 Someone who enjoys designing and exploring better ways to build good software
+- ☕ A long-time coffee-to-bugs converter (mostly in Java 😜)
+- 💻 Someone who enjoys designing and exploring better ways to build good software with great people
 - 😸 Happily owned by two cats
-- ☕ A long-time coffee-to-bugs converter
-- 🎮 Survivor of The Last of Us, Resident Evil, Dead Space, Left 4 Dead, How to Survive and The Walking Dead
+- 🎮 Survivor in The Last of Us, Resident Evil, Dead Space, Left 4 Dead, How to Survive and The Walking Dead
+- ✈️ A world explorer alongside the love of my life, Endy
 - 🎸 Amateur electric guitar player into Blues and Rock and Roll
 - 🐳 Code-driven and DevOps-guided
 - 📚 Curious about philosophy, history, sci-fi and different cultures
