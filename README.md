@@ -5,11 +5,10 @@
 
 ### $ whoami_
 
-- 🇧🇷 Brazilian living in Portugal for 6+ years, enjoying alheira and Port wine 🍷
-- :smile: Always in a good mood, powered by my cats 😸
-- ☕ Turning coffee into bugs for 20+ years 🐞
-- :video_game: Gamer in my spare time, fan of The Last of Us, Resident Evil, Far Cry and Star Wars 🧟
-- 🖥️ Senior Software Architect at Kuehne + Nagel for 4+ years :anchor:
-- :guitar: Amateur electric guitar player into blues 🎵
-- 💻 Driven by code, guided by DevOps 🐳
-- 📚 Always learning and exploring new things through books and travel ✈️
+- 💻 Someone who enjoys designing and exploring better ways to build good software
+- 😸 Happily owned by two cats
+- ☕ A long-time coffee-to-bugs converter
+- 🎮 Survivor of The Last of Us, Resident Evil, Dead Space, Left 4 Dead, How to Survive and The Walking Dead
+- 🎸 Amateur electric guitar player into Blues and Rock and Roll
+- 🐳 Code-driven and DevOps-guided
+- 📚 Curious about philosophy, history, sci-fi and different cultures
