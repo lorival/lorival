@@ -18,7 +18,7 @@ I design and build backend and cloud-native systems.
 
 Computer engineer by training and backend builder at heart, I’ve spent over two decades building software across different languages, platforms, and architectures.
 
-I’m passionate about thoughtful software design and staying hands-on with the code. I enjoy learning, experimenting, and exploring better ways to build clean, reliable systems.
+I am passionate about thoughtful software design and staying hands-on with the code. I enjoy learning, experimenting, and exploring better ways to build clean, reliable systems.
 
 [![loriv.al](https://img.shields.io/badge/loriv.al-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://loriv.al/)](https://loriv.al/)
 [![Linkedin: lorival](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorival/?locale=en_US)](https://www.linkedin.com/in/lorival/?locale=en_US)
