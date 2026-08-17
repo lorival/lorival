@@ -1,4 +1,8 @@
-![Cyberpunk pixel art office](assets/header-optimized.jpg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header_dark_optimized.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header_light_optimized.jpg">
+  <img src="assets/header_light_optimized.jpg" alt="Cyberpunk pixel art office">
+</picture>
 
 ## Hey sudo? 👋
 
