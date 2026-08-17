@@ -4,6 +4,14 @@
   <img src="assets/header_light_optimized.jpg" alt="Cyberpunk pixel art office">
 </picture>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header_hint_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header_hint_light.svg">
+    <img src="assets/header_hint_light.svg" alt="Switch modes to see the office by day or at night">
+  </picture>
+</p>
+
 ## Hey sudo? 👋
 
 I design and build backend and cloud-native systems.
