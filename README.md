@@ -11,6 +11,14 @@ I’m passionate about thoughtful software design and staying hands-on with the 
 [![loriv.al](https://img.shields.io/badge/loriv.al-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://loriv.al/)](https://loriv.al/)
 [![Linkedin: lorival](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorival/?locale=en_US)](https://www.linkedin.com/in/lorival/?locale=en_US)
 
+### GitHub at a glance
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lorival&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lorival&theme=github">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lorival&theme=github" alt="Lorival's GitHub profile details">
+</picture>
+
 ### Currently
 
 - 📖 Reading: *Software Engineering: A Practitioner’s Approach* by Roger S. Pressman and Bruce R. Maxim
