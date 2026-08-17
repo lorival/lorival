@@ -11,17 +11,11 @@ I’m passionate about thoughtful software design and staying hands-on with the 
 [![loriv.al](https://img.shields.io/badge/loriv.al-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://loriv.al/)](https://loriv.al/)
 [![Linkedin: lorival](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorival/?locale=en_US)](https://www.linkedin.com/in/lorival/?locale=en_US)
 
-### GitHub at a glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorival&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="Lorival's GitHub stats">
-</p>
-
 ### Currently
 
 - 📖 Reading: *Software Engineering: A Practitioner’s Approach* by Roger S. Pressman and Bruce R. Maxim
 - 🌱 Learning: AWS optimization and AI-assisted software engineering
-- 🎨 In my spare time: Exploring how to build a brand from scratch and bring a creative product to market
+- 🎨 In my spare time: Exploring how to build a brand from scratch and bring a product to market
 
 ### Beyond the code
 
